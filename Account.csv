@@ -1,0 +1,30 @@
+account_id,user_id,country_of_registration,primary_language
+A561,U221,Indonesia,id_IDN
+A5610,U231,Malaysia,en_MY
+A5611,U232,Macao,en_MO
+A5612,U233,Maldives,es_MV
+A5613,U234,Portugal,en_PT
+A5614,U235,Philiphines,fil_PH
+A5615,U236,Indonesia,id_EN
+A5616,U237,United Kingdom,en_GB
+A5617,U238,Singapore,en_SG
+A5618,U239,Philiphines,fil_EN
+A5619,U240,Indonesia,id_EN
+A562,U222,France,en_FR
+A5620,U242,United Kingdom,id_EN
+A5621,U243,South Korea,en_KR
+A5622,U244,Indonesia,id_EN
+A5623,U245,United Kingdom,en_GB
+A5624,U246,Singapore,en_SG
+A5625,U247,Indonesia,id_IDN
+A5626,U248,Singapore,en_SG
+A5627,U249,United Kingdom,en_GB
+A5628,U250,Indonesia,id_EN
+A5629,U251,United States,en_US
+A563,U223,United Kingdom,wal_ET
+A564,U224,United States,en_US
+A565,U225,Indonesia,en_GB
+A566,U226,Canada,en_CA
+A567,U227,United States,en_US
+A568,U229,Myanmar,en_MM
+A569,U230,Japan,ja_JP
